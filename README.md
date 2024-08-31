@@ -1,3 +1,29 @@
-# Various-large-model-Dialogue-system-and-RAG-system
-和本地部署的大模型对话，调用大模型API对话，以及文档问答系统。
-Dialogue with the large model deployed locally.Dialogue by calling the large model's API.As well as the document Q&A system
+# ChatWithAIFrontEnd
+
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
